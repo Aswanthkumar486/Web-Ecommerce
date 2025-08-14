@@ -1,0 +1,203 @@
+{
+  "site": {
+    "name": "Urban Purple Shop",
+    "tagline": "Boutique Dress Design & Manufacturing",
+    "logo": "https://whatthelogo.com/storage/logos/purple-207543.png"
+  },
+  "navbar": {
+    "menu": [
+      { "name": "Home", "link": "#hero" },
+      { "name": "Shop", "link": "#shop" },
+      
+      { "name": "Portfolio", "link": "#portfolio" },
+      { "name": "Blog", "link": "#blog" },
+      { "name": "Contact", "link": "#contact" }
+    ],
+    "ctaButton": { "text": "View Cart", "link": "/cart" }
+  },
+  "hero": {
+    "headline": "Crafting Signature Dresses, From Sketch to Stitch",
+    "subheadline": "Shop Custom Designs | Limited Edition Collections | Sustainable Fashion",
+    "backgroundImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/264114054/original/c51527bf40f4488689286decddf4d8e52a10e0bd/create-factory-support-fashion-tech-pack-designs.jpg",
+    "cta": {
+      "primary": { "text": "Shop Now", "link": "#shop" },
+      "secondary": { "text": "View Portfolio", "link": "#portfolio" }
+    }
+  }
+  ,
+  
+  "services": {
+  "title": "What We Offer",
+  "description": "We provide a complete shopping experience – from curated fashion collections to doorstep delivery and personalized style advice.",
+  "offerings": [
+    {
+      "name": "Curated Fashion Collections",
+      "icon": "https://cdn-icons-png.flaticon.com/512/892/892458.png"
+    },
+    {
+      "name": "Personalized Styling Advice",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3750/3750796.png"
+    },
+    {
+      "name": "Fast & Secure Delivery",
+      "icon": "https://cdn-icons-png.flaticon.com/512/684/684908.png"
+    },
+    {
+      "name": "Easy Returns & Exchanges",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2331/2331970.png"
+    }
+  ]
+}
+
+  ,
+  "categories": [
+    { "name": "Dresses", "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/344433186/NM/ND/CH/66621890/ecommerce-women-dresses-photo-shoot-service-1000x1000.jpg" },
+    { "name": "Workwear", "image": "https://tse1.mm.bing.net/th/id/OIP._VbsKzf7ihF34eKf78oneQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
+    { "name": "Streetwear", "image": "https://tse4.mm.bing.net/th/id/OIP.w6HIiJST0egR0lL2rA_H8AAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
+    { "name": "Evening Gowns", "image": "https://tse2.mm.bing.net/th/id/OIP.g3afLGNM8evdKe27RoRjKQHaLH?rs=1&pid=ImgDetMain&o=7&rm=3" }
+  ],
+  "products": [
+    {
+      "name": "Handloom Couture Dress",
+      "price": "$189",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.bLP-1CY_GtOpcrETXKZD4AHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Organic handloom sari-inspired cocktail dress with a modern silhouette.",
+      "category": "Dresses"
+    },
+    {
+      "name": "Sustainable Streetwear Hoodie",
+      "price": "$79",
+      "image": "https://www.causeartist.com/content/images/2024/05/Unity-Fitz-Uprisal-Hoody.jpg",
+      "description": "Eco-friendly hoodie crafted from recycled fabrics with bold, modern cuts.",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Luxury Evening Gown",
+      "price": "$399",
+      "image": "https://image.made-in-china.com/2f0j00irKkZWadHpzY/Fashion-Red-Hip-Wrap-Evening-Dress-Beading-Feather-Long-Dress-Women-s-Sequin-Dress.jpg",
+      "description": "Elegant evening dress featuring intricate embroidery and premium fabrics.",
+      "category": "Evening Gowns"
+    },
+    {
+      "name": "Minimalist Workwear Blazer",
+      "price": "$149",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.jhl4IJzbuD9LvxLbsOXkHQHaHa?w=500&h=500&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Sharp, tailored blazer designed for the modern professional wardrobe.",
+      "category": "Workwear"
+    }
+  ],
+  "promotions": [
+    { "headline": "Summer Sale", "subtext": "Up to 30% off Resort Wear", "link": "#shop" },
+    { "headline": "New Arrivals", "subtext": "Fresh Couture Styles Just In", "link": "#shop" }
+  ],
+"portfolio": {
+  "title": "Featured Work",
+  "collections": [
+    {
+      "name": "Handloom Couture",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.7RdFYllABDaaiujWojLBeAHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Organic handloom sari-inspired cocktail dresses with modern silhouettes."
+    },
+    {   
+      "name": "Tech-Pack Precision",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c5a3a457533741.59d9d68cb6cde.jpg",
+      "description": "Detailed measurement specs and tech documentation powering successful production."
+    },
+    {
+      "name": "Sustainable Streetwear",
+      "image": "https://www.sustainablejungle.com/wp-content/uploads/2024/09/Image-by-Sustainable-Jungle-Plant-Faced-sustainable-streetwear-1-1058x1200.jpg",
+      "description": "Eco-friendly urban wear crafted from recycled fabrics with bold, modern cuts."
+    },
+    
+    {
+      "name": "Resort Wear Capsule",
+      "image": "https://i.pinimg.com/736x/7f/8c/a4/7f8ca4b09817a90705ccfbcfe628bb56.jpg",
+      "description": "A breezy, lightweight collection designed for tropical getaways and summer luxury."
+    },
+
+    {
+      "name": "Bohemian Bridal Wear",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.jNRzeAy6-8QZqoGu6P3MbAHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Free-spirited wedding gowns with lace, flowing fabrics, and earthy tones."
+    },
+    {
+      "name": "Runway Ready Collection",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.JNjeuEaxcgKuBXtLYFcJAQHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "High-fashion runway outfits designed for international fashion weeks."
+    }
+  ]
+}
+,
+  "blog": {
+    "title": "Fashion Insights",
+    "posts": [
+      {
+        "title": "Styling Tips for Sustainable Fashion",
+        "date": "2024-03-10",
+        "excerpt": "How to create a chic wardrobe while staying eco-conscious.",
+        "image":"https://tse3.mm.bing.net/th/id/OIP.Ko3AyNGnF_gQu0VAuRtt9AHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+      },
+      {
+        "title": "Behind the Scenes of Dressmaking",
+        "date": "2024-07-15",
+        "excerpt": "From sketches to stitches: the journey of a couture dress.",
+      "image":"https://i.pinimg.com/originals/c5/8b/c7/c58bc7d615447691c1e95f1d50b8313e.jpg"
+      }
+    ]
+  },
+  "clients": {
+    "title": "Customer Reviews",
+    "testimonials": [
+      {
+        "quote": "The dress quality exceeded my expectations — beautiful craftsmanship!",
+        "author": "Verified Buyer"
+      },
+      {
+        "quote": "Fast delivery and amazing fabric quality.",
+        "author": "Repeat Customer"
+      },
+      {
+        "quote": "Unique designs you can’t find anywhere else.",
+        "author": "Fashion Enthusiast"
+      }
+    ]
+  },
+"contact": {
+  "title": "Urban Purple Shop",
+  "logo": "https://whatthelogo.com/storage/logos/purple-207543.png",
+  "description": "Premium boutique delivering couture dresses and curated fashion collections.",
+  "address": "Bangalore, India",
+  "email": "contact@urbanpurpleshop.com",
+  "phone": "+91 90350 01810",
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#"
+  },
+  "links": [
+    { "label": "Home", "href": "#hero" },
+    { "label": "Shop", "href": "#shop" },
+    { "label": "About", "href": "#about" },
+    { "label": "Contact", "href": "#contact" }
+  ]
+}
+,
+  "about": {
+  "title": "About Urban Purple Shop",
+  "story": "Founded in 2010, Urban Purple Shop has grown from a small boutique store into a trusted e-commerce destination for fashion lovers worldwide. We blend timeless style with modern trends, curating collections that celebrate individuality and comfort. From everyday essentials to exclusive designer pieces, our mission is to bring premium-quality fashion directly to your doorstep. Our commitment to ethical sourcing and sustainable practices ensures that every purchase supports both style and responsibility.",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a67be3b12abd9bafb39125a/1604378053130-8YUNHRQ624YZE3PW4EDI/Purple+Store+Exterior+Night.jpg?format=1500w",
+  "team": [
+    {
+      "name": "Aarav Mehta",
+      "role": "Founder & Creative Director",
+      "bio": "Aarav’s vision to merge art and fashion drives the unique collections that define Urban Purple Shop."
+    },
+    {
+      "name": "Sanya Kapoor",
+      "role": "Head of Operations",
+      "bio": "Sanya ensures seamless logistics and exceptional customer service, making every shopping experience memorable."
+    }
+  ]
+}
+
+}
