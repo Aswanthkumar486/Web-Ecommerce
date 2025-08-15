@@ -1,0 +1,18 @@
+{
+      "navbar": {
+    "menu": [
+      { "name": "Home", "link": "#hero" },
+      { "name": "Shop", "link": "#shop" },
+      
+      { "name": "Portfolio", "link": "#portfolio" },
+      { "name": "Blog", "link": "#blog" },
+      { "name": "Contact", "link": "#contact" }
+    ],
+    "ctaButton": { "text": "Back", "link": "/" }
+  },
+  "site": {
+    "name": "Urban Purple Shop",
+    "tagline": "Boutique Dress Design & Manufacturing",
+    "logo": "https://whatthelogo.com/storage/logos/purple-207543.png"
+  }
+}

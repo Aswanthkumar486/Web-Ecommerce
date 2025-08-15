@@ -15,6 +15,28 @@
     ],
     "ctaButton": { "text": "View Cart", "link": "/cart" }
   },
+
+  "reviews":[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "rating": 5,
+    "comment": "Amazing quality and fast delivery!"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Lee",
+    "rating": 4,
+    "comment": "Great product, but packaging could be better."
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "rating": 5,
+    "comment": "Worth every penny. Highly recommend!"
+  }
+]
+,
   "hero": {
     "headline": "Crafting Signature Dresses, From Sketch to Stitch",
     "subheadline": "Shop Custom Designs | Limited Edition Collections | Sustainable Fashion",
@@ -56,36 +78,41 @@
     { "name": "Streetwear", "image": "https://tse4.mm.bing.net/th/id/OIP.w6HIiJST0egR0lL2rA_H8AAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
     { "name": "Evening Gowns", "image": "https://tse2.mm.bing.net/th/id/OIP.g3afLGNM8evdKe27RoRjKQHaLH?rs=1&pid=ImgDetMain&o=7&rm=3" }
   ],
-  "products": [
-    {
-      "name": "Handloom Couture Dress",
-      "price": "$189",
-      "image": "https://tse3.mm.bing.net/th/id/OIP.bLP-1CY_GtOpcrETXKZD4AHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
-      "description": "Organic handloom sari-inspired cocktail dress with a modern silhouette.",
-      "category": "Dresses"
-    },
-    {
-      "name": "Sustainable Streetwear Hoodie",
-      "price": "$79",
-      "image": "https://www.causeartist.com/content/images/2024/05/Unity-Fitz-Uprisal-Hoody.jpg",
-      "description": "Eco-friendly hoodie crafted from recycled fabrics with bold, modern cuts.",
-      "category": "Streetwear"
-    },
-    {
-      "name": "Luxury Evening Gown",
-      "price": "$399",
-      "image": "https://image.made-in-china.com/2f0j00irKkZWadHpzY/Fashion-Red-Hip-Wrap-Evening-Dress-Beading-Feather-Long-Dress-Women-s-Sequin-Dress.jpg",
-      "description": "Elegant evening dress featuring intricate embroidery and premium fabrics.",
-      "category": "Evening Gowns"
-    },
-    {
-      "name": "Minimalist Workwear Blazer",
-      "price": "$149",
-      "image": "https://tse4.mm.bing.net/th/id/OIP.jhl4IJzbuD9LvxLbsOXkHQHaHa?w=500&h=500&rs=1&pid=ImgDetMain&o=7&rm=3",
-      "description": "Sharp, tailored blazer designed for the modern professional wardrobe.",
-      "category": "Workwear"
-    }
-  ],
+ "products": [
+  {
+    "id": 1,
+    "name": "Handloom Couture Dress",
+    "price": "589",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.bLP-1CY_GtOpcrETXKZD4AHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Organic handloom sari-inspired cocktail dress with a modern silhouette.",
+    "category": "Dresses"
+  },
+  {
+    "id": 2,
+    "name": "Sustainable Streetwear Hoodie",
+    "price": "779",
+    "image": "https://www.causeartist.com/content/images/2024/05/Unity-Fitz-Uprisal-Hoody.jpg",
+    "description": "Eco-friendly hoodie crafted from recycled fabrics with bold, modern cuts.",
+    "category": "Streetwear"
+  },
+  {
+    "id": 3,
+    "name": "Luxury Evening Gown",
+    "price": "5399",
+    "image": "https://image.made-in-china.com/2f0j00irKkZWadHpzY/Fashion-Red-Hip-Wrap-Evening-Dress-Beading-Feather-Long-Dress-Women-s-Sequin-Dress.jpg",
+    "description": "Elegant evening dress featuring intricate embroidery and premium fabrics.",
+    "category": "Evening Gowns"
+  },
+  {
+    "id": 4,
+    "name": "Minimalist Workwear Blazer",
+    "price": "1149",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.jhl4IJzbuD9LvxLbsOXkHQHaHa?w=500&h=500&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Sharp, tailored blazer designed for the modern professional wardrobe.",
+    "category": "Workwear"
+  }
+]
+,
   "promotions": [
     { "headline": "Summer Sale", "subtext": "Up to 30% off Resort Wear", "link": "#shop" },
     { "headline": "New Arrivals", "subtext": "Fresh Couture Styles Just In", "link": "#shop" }
@@ -199,5 +226,39 @@
     }
   ]
 }
+,
+"paymentOptions": [
+  {
+    "icon": "fa-solid fa-credit-card",
+    "question": "Secure Credit/Debit Card Payments",
+    "answer": "Pay instantly using Visa, MasterCard, or RuPay with bank-grade encryption for your safety.",
+    "method": "card"
+  },
+  {
+    "icon": "fa-solid fa-wallet",
+    "question": "Digital Wallet Support",
+    "answer": "Easily pay via Google Pay, Apple Pay, or other supported wallets for a faster checkout.",
+    "method": "wallet"
+  },
+  {
+    "icon": "fa-solid fa-money-bill-wave",
+    "question": "Cash on Delivery",
+    "answer": "Choose to pay in cash or UPI when your order is delivered to your doorstep.",
+    "method": "cod"
+  },
+  {
+    "icon": "fa-solid fa-building-columns",
+    "question": "Bank Transfer",
+    "answer": "Make a direct bank transfer using NEFT, RTGS, or IMPS for large or custom orders.",
+    "method": "bank"
+  },
+  {
+    "icon": "fa-solid fa-mobile-screen",
+    "question": "UPI Payment",
+    "answer": "Pay instantly using your favorite UPI app such as Google Pay, PhonePe, or Paytm.",
+    "method": "upi"
+  }
+]
+
 
 }
